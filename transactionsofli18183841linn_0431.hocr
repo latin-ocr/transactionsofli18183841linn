@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./transactionsofli18183841linn_0431.png"; bbox 0 0 2338 3166; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 212 363 2070 2628">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 212 363 2070 2628">
+     <span class='ocr_line' id='line_1_1' title="bbox 212 363 2070 2628; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 212 363 2070 2628; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 116 2830 2111 2866">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 116 2830 2111 2866">
+     <span class='ocr_line' id='line_1_2' title="bbox 116 2830 2111 2866; baseline -0.002 -11"><span class='ocrx_word' id='word_1_2' title='bbox 116 2834 133 2855; x_wconf 63' lang='grc' dir='ltr'><em>ί</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 154 2834 173 2855; x_wconf 72' lang='grc' dir='ltr'><em>ί)</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 196 2838 214 2855; x_wconf 68' lang='lat' dir='ltr'><em>A‘·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 233 2834 267 2856; x_wconf 66' lang='lat' dir='ltr'><em>H</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 284 2833 455 2866; x_wconf 60' lang='lat' dir='ltr'><em>Sclmff&#39;dfl</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1890 2832 1911 2853; x_wconf 55' lang='grc' dir='ltr'><em>,ζῖ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1924 2830 2059 2852; x_wconf 46' lang='grc' dir='ltr'><em>»ἴνυιίωι-</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2089 2839 2111 2852; x_wconf 62' lang='lat'><em>:⁴1</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
